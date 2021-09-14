@@ -1,0 +1,9 @@
+.places__place-title {
+  max-width: 460px;
+  color: #fff;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 1.06;
+  margin: 0;
+  padding: 0;
+}

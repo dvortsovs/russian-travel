@@ -1,0 +1,5 @@
+.places__place-url {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
