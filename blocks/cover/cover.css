@@ -1,0 +1,4 @@
+.cover {
+  width: calc(100% - 96px);
+  margin: 92px auto 0;
+}
