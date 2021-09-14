@@ -30,9 +30,11 @@
 @import url('../blocks/intro/__list-item/intro__list-item.css');
 @import url('../blocks/intro/__number/intro__number.css');
 @import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/photo-grid/__list-item/photo-grid__list-item.css');
 @import url('../blocks/photo-grid/__image/photo-grid__image.css');
 @import url('../blocks/places/places.css');
 @import url('../blocks/places/__place/places__place.css');
+@import url('../blocks/places/__place-list/places__place_list.css');
 @import url('../blocks/places/__place-text/places__place-text.css');
 @import url('../blocks/places/__place-paragraph/places__place-paragraph.css');
 @import url('../blocks/places/__place-url/places__place-url.css');
