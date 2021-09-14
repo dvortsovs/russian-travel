@@ -2,5 +2,4 @@
   width: calc(100% - 96px);
   display: flex;
   justify-content: space-between;
-  margin: 28px auto 0;
 }
