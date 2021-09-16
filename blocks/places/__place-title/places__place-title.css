@@ -7,3 +7,23 @@
   margin: 0;
   padding: 0;
 }
+@media screen and (max-width: 1280px) and (min-width: 1024px) {
+  .places__place-title {
+    max-width: 440px;
+  }
+}
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .places__place-title {
+    max-width: 340px;
+    font-size: 42px;
+    line-height: 1.1;
+  }
+}
+@media screen and (max-width: 768px) and (min-width: 320px) {
+  .places__place-title {
+    min-width: calc(100% - 32px);
+    margin: 0 auto;
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}

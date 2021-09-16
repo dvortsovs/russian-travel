@@ -1,5 +1,22 @@
 .places__place-text {
+  max-width: 484px;
   display: grid;
   grid-template-rows: repeat(2, max-content);
   row-gap: 26px;
+}
+@media screen and (max-width: 1280px) and (min-width: 1024px) {
+  .places__place-text {
+    max-width: 456px;
+  }
+}
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .places__place-text {
+    max-width: 352px;
+  }
+}
+@media screen and (max-width: 768px) and (min-width: 320px) {
+  .places__place-text {
+    margin: 0 auto;
+    max-width: calc(100% - 32px);
+  }
 }
