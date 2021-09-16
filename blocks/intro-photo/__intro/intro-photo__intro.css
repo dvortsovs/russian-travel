@@ -1,3 +1,19 @@
 .intro-photo__intro {
   margin: 0 auto;
+  width: calc(100% - 296px);
+}
+@media screen and (max-width: 1280px) and (min-width: 1024px) {
+  .intro-photo__intro {
+    width: calc(100% - 96px);
+  }
+}
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .intro-photo__intro {
+    width: calc(100% - 48px);
+  }
+}
+@media screen and (max-width: 768px) and (min-width: 320px) {
+  .intro-photo__intro {
+    width: calc(100% - 32px);
+  }
 }
