@@ -4,8 +4,9 @@
 
 ---
 
-##В проекте использованы следующие технологии:
+## В проекте использованы следующие технологии:
 
 + HTML5
 + CSS3
 
+[Ссылка на GitHub Pages](https://dvortsovs.github.io/russian-travel/index.html)
