@@ -5,18 +5,18 @@
   grid-template-rows: repeat(5, min-content);
   row-gap: 80px;
 }
-@media screen and (max-width: 1280px) and (min-width: 1024px) {
+@media screen and (max-width: 1280px) {
   .places__place-list {
     width: calc(100% - 96px);
   }
 }
-@media screen and (max-width: 1024px) and (min-width: 768px) {
+@media screen and (max-width: 1024px) {
   .places__place-list {
     width: calc(100% - 48px);
     row-gap: 73px;
   }
 }
-@media screen and (max-width: 768px) and (min-width: 320px) {
+@media screen and (max-width: 768px) {
   .places__place-list {
     width: 100%;
     row-gap: 50px;

@@ -2,12 +2,12 @@
   width: calc(100% - 96px);
   margin: 28px auto 0;
 }
-@media screen and (max-width: 1024px) and (min-width: 768px) {
+@media screen and (max-width: 1024px) {
   .page__header {
     width: calc(100% - 48px);
   }
 }
-@media screen and (max-width: 768px) and (min-width: 320px) {
+@media screen and (max-width: 768px) {
   .page__header {
     width: calc(100% - 32px);
     margin: 16px auto 0;
