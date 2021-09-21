@@ -36,7 +36,7 @@
 @import url('../blocks/photo-grid/__image/photo-grid__image.css');
 @import url('../blocks/places/places.css');
 @import url('../blocks/places/__place/places__place.css');
-@import url('../blocks/places/__place-list/places__place_list.css');
+@import url('../blocks/places/__place-list/places__place-list.css');
 @import url('../blocks/places/__place-text/places__place-text.css');
 @import url('../blocks/places/__place-paragraph/places__place-paragraph.css');
 @import url('../blocks/places/__place-url/places__place-url.css');
@@ -47,7 +47,6 @@
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
-@import url('../blocks/cover/__image/cover__image.css');
 @import url('../blocks/cover/__image-overlay/cover__image-overlay.css');
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__nav/footer__nav.css');

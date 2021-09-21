@@ -1,0 +1,24 @@
+.cover {
+  background-image: url('../../images/cover-trains.jpg');
+  width: 100%;
+  min-height: 740px;
+  height: 1px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media screen and (max-width: 1280px) {
+  .cover {
+    height: 640px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .cover {
+    height: 480px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .cover {
+    height: 200px;
+  }
+}

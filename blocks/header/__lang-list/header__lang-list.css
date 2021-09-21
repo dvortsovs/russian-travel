@@ -1,4 +1,5 @@
 .header__lang-list {
-  display: flex;
-  align-items: flex-end;
+  display: grid;
+  grid-template-columns: min-content min-content;
+  column-gap: 18px;
 }
