@@ -2,13 +2,13 @@
   width: calc(100% - 96px);
   margin: 92px auto 0;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .photo-grid {
     width: calc(100% - 48px);
     margin: 88px auto 0;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .photo-grid {
     width: calc(100% - 32px);
     margin: 64px auto 0;

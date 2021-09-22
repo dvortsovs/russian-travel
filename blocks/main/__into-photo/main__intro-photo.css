@@ -2,12 +2,12 @@
   width: 100%;
   margin: 92px auto 0;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .main__intro-photo {
     margin: 88px auto 0;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .main__intro-photo {
     margin: 64px auto 0;
   }

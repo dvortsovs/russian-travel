@@ -7,18 +7,18 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .cover {
-    height: 640px;
+    min-height: 640px;
   }
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .cover {
-    height: 480px;
+    min-height: 480px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .cover {
-    height: 200px;
+    min-height: 200px;
   }
 }
