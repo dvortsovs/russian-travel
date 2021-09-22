@@ -12,6 +12,7 @@
 @media screen and (max-width: 1023px) {
   .places__place-text {
     max-width: 352px;
+    row-gap: 25px;
   }
 }
 @media screen and (max-width: 767px) {
