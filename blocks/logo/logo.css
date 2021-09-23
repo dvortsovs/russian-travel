@@ -1,0 +1,6 @@
+.logo {
+  background-image: url('../../images/__logo.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
