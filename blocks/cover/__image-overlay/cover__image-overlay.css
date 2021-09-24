@@ -1,6 +1,5 @@
 .cover__image-overlay {
   width: 100%;
-  height: 100%;
   background-color: rgb(42, 44, 47, 0.3);
   display: flex;
   flex-direction: column;
